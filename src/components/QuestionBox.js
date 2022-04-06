@@ -19,7 +19,7 @@ const QuestionBox = ({question, options, selected}) => {
                 }}
               />
               &nbsp;
-              {text}
+              {text} <br />
           </label>
         ))}
       
